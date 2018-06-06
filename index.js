@@ -30,4 +30,4 @@ client.on("message", message => {
  
 });
  
-client.login(NDUyNTEwMzYxOTk2NzU0OTY0.Dfkepw.MMxySqQKoZAEqPWTNRf9ApRnZ-A)
+client.login('NDUyNTEwMzYxOTk2NzU0OTY0.Dfkepw.MMxySqQKoZAEqPWTNRf9ApRnZ-A')
